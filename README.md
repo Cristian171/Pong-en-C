@@ -43,10 +43,6 @@ SDL2_ttf.lib
 ![FOTO](https://cdn.discordapp.com/attachments/755609390853128222/1165402038188908585/image.png?ex=6546b83a&is=6534433a&hm=e093e29ee1b2690d7dbeb9eb1a5026a1db9c19e585bf2e38b149985fd5cab8d3&)
 ![FOTO](https://cdn.discordapp.com/attachments/755609390853128222/1165402407845503137/image.png?ex=6546b892&is=65344392&hm=98055e7bf43e6ae94aed8903f20841e76c82ab8b6f1e91166c7e5c5df39d1fff&)
 
-## Video Explicando como funcionan los hilos y Semaforos
-
-https://www.youtube.com/watch?v=XuKGZjTI2Jk
-
 Para compilar el programa, puedes utilizar el siguiente comando:
 
 ```bash
