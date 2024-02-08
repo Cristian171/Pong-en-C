@@ -1,0 +1,4 @@
+﻿  Sonido.cpp
+C:\Users\crist\OneDrive\Documentos\Git\sc-2320-evalunidad4-Cristian171\Sonido\Sonido\Sonido.cpp(136,19): warning C4244: 'argumento': conversión de 'double' a 'Uint32'; posible pérdida de datos
+C:\Users\crist\OneDrive\Documentos\Git\sc-2320-evalunidad4-Cristian171\Sonido\Sonido\Sonido.cpp(347,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Sonido.vcxproj -> C:\Users\crist\OneDrive\Documentos\Git\sc-2320-evalunidad4-Cristian171\Sonido\x64\Debug\Sonido.exe
